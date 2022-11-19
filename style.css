@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.head{
+    font-size: 23px;
+    margin:0px;
+    width:100%;
+
+}
+#start, #obj, #stat{
+    font-size: 18px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    background-color: darkgoldenrod;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+}
+canvas{
+    border: 2px solid darkgoldenrod;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px orange;
+}
